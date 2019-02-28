@@ -1,0 +1,18 @@
+{
+  "name": "hack-the-box",
+  "version": "1.0.0",
+  "description": "Javascript API for Hack the Box",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api",
+    "htb",
+    "hack-the-box"
+  ],
+  "author": "Alex Mansfield",
+  "license": "ISC"
+}
